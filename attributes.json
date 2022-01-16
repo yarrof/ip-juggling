@@ -1,0 +1,36 @@
+{
+    "computer": {
+        "mac_address": "C0-B6-F9-F8-4C-CE",
+        "private_ip": "192.168.50.192",
+        "network_id": "192.168.50.0/24",
+        "network_mask": "255.255.255.0",
+        "gateway_ip": "192.168.50.1",
+        "public_ip": "46.107.201.38"
+    },
+    "device": {
+        "mac_address": "C0-EE-FB-D4-6A-75",
+        "private_ip": "192.168.50.169",
+        "network_id": "192.168.50.0/24",
+        "network_mask": "255.255.255.0",
+        "gateway_ip": "192.168.50.1",
+        "public_ip": "46.107.201.38",
+        "ping_ok": true,
+        "traceroute_ok": true,
+        "traceroute_hops": 1
+    },
+    "router": {
+        "mac_address": "40-B0-76-3E-8C-44",
+        "private_ip": "192.168.50.1",
+        "gateway_ip": "192.168.0.11",
+        "public_ip": "46.107.201.38",
+        "ping_ok": true,
+        "traceroute_ok": true,
+        "traceroute_hops": 1
+    },
+    "google": {
+        "public_ip": "172.217.20.14",
+        "ping_ok": true,
+        "traceroute_ok": true,
+        "traceroute_hops": 10
+    }
+}
